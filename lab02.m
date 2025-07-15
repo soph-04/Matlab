@@ -1,8 +1,5 @@
 %% Lab 2: Loops and Functions
-%
-% Sophie Furtado
-% 251250533
-%
+
 %% Exercise 1: Loops and Functions
 %
 %% Array Reversal Testing
