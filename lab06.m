@@ -1,8 +1,5 @@
 %% Lab 6: 2D Plotting
-%
-% Sophie Furtado
-% 251250533
-%
+
 %% Exercise 1
 %
 
