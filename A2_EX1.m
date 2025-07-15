@@ -1,8 +1,5 @@
 %% Assignment 2: Exercise 1
-%
-% Sophie Furtado
-% 251250533
-%
+
 %% Load variables
 load('A2.mat');
 
