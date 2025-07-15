@@ -1,8 +1,4 @@
 %% Assignment 1: Exercise 3
-%
-% Sophie Furtado
-% 251250533
-%
 
 %% Search()
 % Function that searches for the min and max of f(x) in 2000 steps over the
