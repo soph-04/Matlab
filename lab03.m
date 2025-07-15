@@ -1,8 +1,4 @@
 %% Lab 3: Arrays and More Numerical Types
-%
-% Sophie Furtado
-% 251250533
-%
 
 %% Exercise 1: Simple Array Calculations
 
