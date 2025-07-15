@@ -1,7 +1,4 @@
 %% Lab 9: Basic Statistics 
-%
-% Sophie Furtado
-% 251250533
 
 %% Exercise 1 
 
