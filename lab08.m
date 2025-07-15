@@ -1,8 +1,5 @@
 %% Lab 8: Symbolic Computing
-%
-% Sophie Furtado
-% 251250533
-%
+
 %% Exercise 1
 
 clc; clear; close all;
