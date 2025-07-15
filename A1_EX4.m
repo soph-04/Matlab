@@ -1,8 +1,4 @@
 %% Assignment 1: Exercise 4
-%
-% Sophie Furtado
-% 251250533
-%
 
 %% y = mysclosest(x, t)
 % Algorithm that accepts vector x and target number t and returns the
