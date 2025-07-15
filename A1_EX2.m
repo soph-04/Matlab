@@ -1,8 +1,4 @@
 %% Assignment 1: Exercise 2
-%
-% Sophie Furtado
-% 251250533
-%
 
 %% Part a
 %
