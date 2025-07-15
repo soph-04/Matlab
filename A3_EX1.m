@@ -1,7 +1,4 @@
 %% Assignment 3
-%
-% Sophie Furtado
-% 251250533
 
 %% Exercise 1
 
