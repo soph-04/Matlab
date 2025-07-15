@@ -1,0 +1,1 @@
+Learned essential skills and computational tools for working with data from a number of disciplines. Used MATLAB for data analysis and visualization through basic statistics, numerical computing, and programming, with interdisciplinary applications ranging from image processing to financial computing, and more. 
