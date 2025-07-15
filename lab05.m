@@ -1,8 +1,5 @@
 %% Lab 5: Linear System of Equations
-%
-% Sophie Furtado
-% 251250533
-%
+
 %% Exercise 1
 %
 % Define matrix A and vector b
