@@ -1,8 +1,5 @@
 %% Lab 4: Vectors and Matrices
-%
-% Sophie Furtado
-% 251250533
-%
+
 %% Exercise 1: Simple Matrix Calculations
 %
 format compact
