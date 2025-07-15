@@ -1,8 +1,5 @@
 %% Plotting Function in MATLAB
 
-% Sophie Furtado
-% 251250533
-
 % Create a set of 1001 points between -pi and pi for the x-axis
 
 x = linspace(-pi,pi,1001);
